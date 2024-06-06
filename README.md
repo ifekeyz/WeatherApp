@@ -29,7 +29,7 @@ This mobile application allows users to enter a city or zip code and fetches the
 To run the application locally, follow these steps:
 
 1. **Clone the repository:**
-   git clone https://github.com/ifekeyz_/weather-app.git
+   git clone https://github.com/ifekeyz/weather-app.git
 2. **Navigate to the project directory:**
     cd WeatherApp
 3.**Install dependencies:**
